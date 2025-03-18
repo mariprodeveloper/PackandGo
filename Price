@@ -1,12 +1,12 @@
 {
-    "mot": 100,
-    "lodka": 100,
-    "bin": 50,
-    "navigator": 50,
-    "palatka1": 30,
-    "palatka2": 50,
-    "palatka3": 70,
-    "sleep": 50
+    "ATVs": 100,
+    "Motorboat": 100,
+    "Binoculars": 50,
+    "Navigation system": 50,
+    "The tent is single": 30,
+    "The tent is double": 50,
+    "The tent is four-person": 70,
+    "Sleeping bag": 50
 
     
 
